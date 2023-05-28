@@ -1,0 +1,9 @@
+c:\users\johjjjjjjn\documents\visual studio 2015\Projects\ArduinoCServer\bin\Debug\ArduinoCServer.exe.config
+c:\users\johjjjjjjn\documents\visual studio 2015\Projects\ArduinoCServer\bin\Debug\ArduinoCServer.exe
+c:\users\johjjjjjjn\documents\visual studio 2015\Projects\ArduinoCServer\bin\Debug\ArduinoCServer.pdb
+c:\users\johjjjjjjn\documents\visual studio 2015\Projects\ArduinoCServer\obj\Debug\ArduinoCServer.csprojResolveAssemblyReference.cache
+c:\users\johjjjjjjn\documents\visual studio 2015\Projects\ArduinoCServer\obj\Debug\ArduinoCServer.Form1.resources
+c:\users\johjjjjjjn\documents\visual studio 2015\Projects\ArduinoCServer\obj\Debug\ArduinoCServer.Properties.Resources.resources
+c:\users\johjjjjjjn\documents\visual studio 2015\Projects\ArduinoCServer\obj\Debug\ArduinoCServer.csproj.GenerateResource.Cache
+c:\users\johjjjjjjn\documents\visual studio 2015\Projects\ArduinoCServer\obj\Debug\ArduinoCServer.exe
+c:\users\johjjjjjjn\documents\visual studio 2015\Projects\ArduinoCServer\obj\Debug\ArduinoCServer.pdb
